@@ -17,6 +17,11 @@
   "devDependencies": {
     "@antfu/eslint-config": "^2.21.1",
     "eslint": "^9.5.0",
+    "postcss-html": "^1.7.0",
+    "stylelint": "^16.6.1",
+    "stylelint-config-html": "^1.1.0",
+    "stylelint-config-recess-order": "^5.0.1",
+    "stylelint-config-standard": "^36.0.1",
     "typescript": "^5.5.2"
   }
 }
